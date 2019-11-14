@@ -1,2 +1,2 @@
 # Data-Segmentation
-Script that segments some high dimension physiological data that is too big to fit into memory at once
+Concisely, this script takes huge text files of physiological data,  identifies abnormalities using statistical tests,  and segments it into smaller files accordingly.  Because of the size of the input files, it reads and processes the data in chunks that fit in memory.
